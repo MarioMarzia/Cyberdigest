@@ -528,7 +528,7 @@ TERM_CORRECTIONS = {
 
 ## 📜 Licenza
 
-MIT License - Uso personale ed educativo.
+Uso personale ed educativo.
 
 ---
 
@@ -540,9 +540,3 @@ MIT License - Uso personale ed educativo.
 | LLM Cloud | [Llama 3.3 70B](https://groq.com/) via Groq |
 | Scraping | [Trafilatura](https://github.com/adbar/trafilatura) |
 | Feed Parsing | [Feedparser](https://github.com/kurtmckee/feedparser) |
-
----
-
-<p align="center">
-  Made with ❤️ for the cybersecurity community
-</p>
