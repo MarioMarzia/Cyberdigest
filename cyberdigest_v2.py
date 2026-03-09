@@ -7,7 +7,7 @@ Modalità:
   --bot       : Avvia il bot Telegram in ascolto continuo
   --cleanup   : Pulisce articoli più vecchi di 7 giorni
 
-Repository: https://github.com/yourusername/cyberdigest
+Repository: https://github.com/MarioMarzia/cyberdigest
 """
 
 import feedparser
